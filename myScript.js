@@ -7,7 +7,7 @@ document.getElementById("btnPrice").addEventListener("click", function() {
     var btnPomodoro = document.getElementById("Pomodoro")
     var btnLattuga = document.getElementById("Lattuga")
     var btnKetchup = document.getElementById("Ketchup")
-var price = 5;
+var price = 1;
 
     if(btnFormaggio.checked) {
         price += 2
